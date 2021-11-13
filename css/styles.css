@@ -709,7 +709,7 @@ input[type='checkbox'] {
 .cards-1 {
 	padding-top: 9.5rem;
 	padding-bottom: 6.625rem;
-	background-color: #0D3059;
+	background-color: #0c306b;
 }
 
 .cards-1 .h2-heading {
@@ -1675,10 +1675,23 @@ a:hover.back-to-top {
 .start{
 	font-size: 1.5rem;
 }
+.star-light{
+    color: #fff;
+}
 .capacidades-img{
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
 	margin-top: 50px;
+}
+.title-dark-background{
+	color: #fff;
+}
+.custumeratending{
+	background-image: url(../images/background.jpg);
+}
+.services-img{
+    width: auto;
+	height: auto;
 }
 /* end of min-width 1200px */
