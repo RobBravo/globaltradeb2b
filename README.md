@@ -1,2 +1,2 @@
 # globaltadeb2b
-empresa de abastecimiento
+Empresa de abastecimiento
